@@ -4,7 +4,7 @@ b=20
 print(a,b)
 
 
-#DATATYPE
+#DATATYPE 
 Name="Mamatha M"   #string
 Age=20             #int
 weight=48.6        #float
