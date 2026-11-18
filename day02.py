@@ -1,6 +1,6 @@
-#VARIABLE(must be start with letter or underscore)
+ #VARIABLE(must be start with letter or underscore)
 a=10    # assigning the value 10 to a
-b=20
+b=20 
 print(a,b)
 
 
